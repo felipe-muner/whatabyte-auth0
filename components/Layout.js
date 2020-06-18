@@ -1,7 +1,7 @@
 // components/Layout.js
 import Head from "next/head";
 
-// import Header from "./Header";
+import Header from "./Header";
 import NavBar from "./NavBar";
 
 import "./Layout.scss";
